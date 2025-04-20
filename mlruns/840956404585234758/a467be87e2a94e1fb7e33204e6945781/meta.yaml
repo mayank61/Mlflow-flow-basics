@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840956404585234758/a467be87e2a94e1fb7e33204e6945781/artifacts
+end_time: 1745129793203
+entry_point_name: ''
+experiment_id: '840956404585234758'
+lifecycle_stage: active
+run_id: a467be87e2a94e1fb7e33204e6945781
+run_name: agreeable-kit-46
+run_uuid: a467be87e2a94e1fb7e33204e6945781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745129783146
+status: 3
+tags: []
+user_id: Mayank
